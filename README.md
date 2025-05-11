@@ -132,3 +132,40 @@ The wireframe used on the figma design is a **High-Fidelity Wireframe**.
 - ✅ It includes real text instead of just placeholder boxes
 
 ---
+# 🛠️ Popular Wireframing Tools
+
+There are many tools available to help create wireframes, from basic sketches to advanced digital designs. Below are some popular ones:
+
+
+## 🧰 Common Wireframing Tools
+
+| Tool         | Description                                              |
+|--------------|----------------------------------------------------------|
+| **Figma**    | A powerful online design tool used for wireframes, UI/UX, and collaboration |
+| **Balsamiq** | Great for low-fidelity wireframes with a sketchy look   |
+| **Adobe XD** | Professional tool for wireframes, prototypes, and design |
+| **Sketch**   | Popular Mac-based tool for UI design and wireframing    |
+| **Lucidchart**| Easy-to-use tool for wireframes, flowcharts, and diagrams |
+
+
+## ⭐ Recommended Tool: **Figma**
+
+[Figma](https://www.figma.com) is one of the most popular tools for wireframing and design, especially for teams and beginners.
+
+### ✨ Key Features:
+- Works directly in your browser (no installation needed)
+- Real-time collaboration (many people can work on the same file)
+- Free plan available for personal projects
+- Drag-and-drop interface that’s easy to learn
+- Great for both **low-fidelity** and **high-fidelity** wireframes
+
+### 💡 Why Figma Is Useful for Wireframing:
+- You can quickly sketch out ideas and share them with others
+- Changes are saved automatically and can be viewed by teammates
+- It helps you move from a rough sketch to a polished prototype in one tool
+
+## 🧠 In Simple Words
+
+> Figma is like an online drawing board that you can use to design apps and websites. You don’t need to be an expert—just start creating and invite others to work with you!
+
+---
