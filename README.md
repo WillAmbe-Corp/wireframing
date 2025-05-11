@@ -73,3 +73,62 @@ Each wireframe element plays a role in creating a good experience for users. The
 - Help everyone understand the design before it becomes real
 
 ---
+# 🧾 Types of Wireframes
+
+Wireframes come in different styles depending on how detailed they are. The two most common types are:
+
+## 1. 📝 Low-Fidelity Wireframes
+
+These are **rough sketches or simple drawings** made with basic shapes (like boxes and lines). They don’t include colors, images, or fancy designs.
+
+🔸 **Think of it like:** A pencil drawing of a house before the walls are painted or furniture is added.
+
+### ✨ Features:
+- Black-and-white
+- Very simple
+- Focuses on layout and structure only
+- Easy and quick to create
+
+### 🕒 When to use:
+- At the **beginning of a project**
+- When sharing early ideas with the team or client
+- To plan the layout before thinking about design details
+
+
+## 2. 🎨 High-Fidelity Wireframes
+
+These are **more detailed and realistic versions** of a wireframe. They include fonts, images, icons, and even sample text. Sometimes they look almost like the final product.
+
+🔸 **Think of it like:** A fully colored drawing of a house, showing where the couch, curtains, and decorations will go.
+
+### ✨ Features:
+- Includes images, colors, and real content
+- Shows how the final app or website might look
+- More polished and closer to the final design
+
+### 🕒 When to use:
+- In the **later stages of design**
+- Before sharing with developers
+- When preparing for client feedback or user testing
+
+
+## 🧠 Why Both Are Important
+
+Using both low- and high-fidelity wireframes at the right time helps teams:
+- Save time and avoid mistakes
+- Make smart design decisions step by step
+- Get clear feedback before building anything
+
+---
+# 🔍 Type of Wireframe Used in the Example on Savana
+
+The wireframe used on the figma design is a **High-Fidelity Wireframe**.
+
+
+## 🎨 What Makes It High-Fidelity?
+
+- ✅ It includes colors, fonts, icons, and real images
+- ✅ It looks very close to the final version of the app
+- ✅ It includes real text instead of just placeholder boxes
+
+---
